@@ -1,4 +1,4 @@
-YEAR,STATE NAME,CONSTITUENCY NAME,CONSTITUENCY NO,WINNER CANDIDATE NAME,GENDER,PARTY NAME,PARTY SYMBOL,TOTAL ELECTORS,TOTAL NUMBER OF VOTERS (MARGIN),VOTE %,Category,TOTAL NUMBER OF VOTES CASTED,Election Type
+YEAR,STATE NAME,CONSTITUENCY NAME,CONSTITUENCY NO,WINNER CANDIDATE NAME,GENDER,PARTY NAME,PARTY SYMBOL,TOTAL ELECTORS,TOTAL NUMBER OF VOTERS (MARGIN),VOTE %,Category,VOTES CASTED,Election Type
 1962,Bihar,Bagaha,56,Kamal Nath Tewari,Male,Indian National Congress,Hand,385005,188598,49.00%,GEN,188652,Lok Sabha (National)
 1962,Bihar,Motihari,57,Bibhuti Mishra,Male,Indian National Congress,Hand,379579,182534,48.10%,SC,182577,Lok Sabha (National)
 1962,Bihar,Bettiah,58,Bhola Raut,Male,Indian National Congress,Hand,380043,145637,38.30%,SC,145556,Lok Sabha (National)
@@ -289,7 +289,7 @@ YEAR,STATE NAME,CONSTITUENCY NAME,CONSTITUENCY NO,WINNER CANDIDATE NAME,GENDER,P
 1984,Bihar,Madhepura,21,Mahabir Prasad Yadav,Male,Indian National Congress,Hand,836565,557547,66.70%,GEN,557988,Lok Sabha (National)
 1984,Bihar,Araria,22,Doomar Lal Baitha,Male,Indian National Congress,Hand,791489,472148,59.70%,SC,472518,Lok Sabha (National)
 1984,Bihar,Kishanganj,23,Jamilur Rahman,Male,Indian National Congress,Hand,798096,444904,55.80%,GEN,445337,Lok Sabha (National)
-1984,Bihar,Purnea,24,Madhuree Singh,Male,Indian National Congress,Hand,773952,442678,57.20%,GEN,442700,Lok Sabha (National)
+1984,Bihar,Purnea,24,Madhuree Singh,Female,Indian National Congress,Hand,773952,442678,57.20%,GEN,442700,Lok Sabha (National)
 1984,Bihar,Katihar,25,Tariq Anwar,Male,Indian National Congress,Hand,672232,470487,70.00%,GEN,470562,Lok Sabha (National)
 1984,Bihar,Rajmahal,26,Seth Hembrom,Male,Indian National Congress,Hand,692614,318578,46.00%,ST,318602,Lok Sabha (National)
 1984,Bihar,Dumka,27,Prithiwi Chand Kisku,Male,Indian National Congress,Hand,708326,380961,53.80%,ST,381079,Lok Sabha (National)

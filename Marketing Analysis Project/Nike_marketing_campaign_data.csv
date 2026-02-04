@@ -1,0 +1,94 @@
+Date,Campaign_Name,Channel,Ad_Spend,Impressions,Clicks,Conversions,Revenue,Average_Order_Value,CTR,Conversion_Rate,CPC,CPA,ROAS,Target_Audience,Gender,Region,Device_Type,Product_Category
+2025-12-01,Holiday Gift Guide,Social Media,500,25000,1200,45,6750,150.00,4.80,3.75,0.42,11.11,13.50,25-34,Unisex,North America,Mobile,Apparel
+2025-12-01,Holiday Gift Guide,Email,100,5000,800,120,18000,150.00,16.00,15.00,0.13,0.83,180.00,35-44,Unisex,North America,Desktop,Apparel
+2025-12-01,Nike App Installs,PPC,300,15000,450,20,800,40.00,3.00,4.44,0.67,15.00,2.67,18-24,Unisex,North America,Mobile,App
+2025-12-02,Holiday Gift Guide,Social Media,520,26500,1250,48,7200,150.00,4.72,3.84,0.42,10.83,13.85,25-34,Unisex,North America,Mobile,Apparel
+2025-12-02,Holiday Gift Guide,Email,0,200,50,2,300,150.00,25.00,4.00,0.00,0.00,0,35-44,Unisex,North America,Desktop,Apparel
+2025-12-02,Nike App Installs,PPC,310,15500,460,22,880,40.00,2.97,4.78,0.67,14.09,2.84,18-24,Unisex,North America,Mobile,App
+2025-12-03,Year End Clearance,Social Media,450,21000,980,35,3850,110.00,4.67,3.57,0.46,12.86,8.56,25-34,Unisex,North America,Mobile,Footwear
+2025-12-03,Holiday Gift Guide,Email,50,1500,200,30,4500,150.00,13.33,15.00,0.25,1.67,90.00,35-44,Unisex,North America,Desktop,Apparel
+2025-12-03,Nike App Installs,PPC,290,14000,410,18,720,40.00,2.93,4.39,0.71,16.11,2.48,18-24,Unisex,North America,Mobile,App
+2025-12-04,Year End Clearance,Social Media,460,21500,1020,38,4180,110.00,4.74,3.73,0.45,12.11,9.09,25-34,Unisex,North America,Mobile,Footwear
+2025-12-04,Year End Clearance,Email,150,6000,900,110,12100,110.00,15.00,12.22,0.17,1.36,80.67,35-44,Women,North America,Desktop,Footwear
+2025-12-04,Nike App Installs,PPC,305,14800,440,21,840,40.00,2.97,4.77,0.69,14.52,2.75,18-24,Unisex,North America,Mobile,App
+2025-12-05,Year End Clearance,Social Media,480,23000,1100,42,4620,110.00,4.78,3.82,0.44,11.43,9.63,25-34,Unisex,North America,Mobile,Footwear
+2025-12-05,Air Max Holiday Drop,Influencer,1200,85000,5600,210,47250,225.00,6.59,3.75,0.21,5.71,39.38,18-24,Unisex,North America,Mobile,Footwear
+2025-12-05,Nike App Installs,PPC,320,16000,490,25,1000,40.00,3.06,5.10,0.65,12.80,3.13,18-24,Unisex,North America,Mobile,App
+2025-12-06,Year End Clearance,Social Media,470,22000,1050,40,4400,110.00,4.77,3.81,0.45,11.75,9.36,25-34,Unisex,North America,Mobile,Footwear
+2025-12-06,Air Max Holiday Drop,Influencer,0,12000,800,35,7875,225.00,6.67,4.38,0.00,0.00,0,18-24,Men,North America,Mobile,Footwear
+2025-12-06,Nike App Installs,PPC,315,15800,480,24,960,40.00,3.04,5.00,0.66,13.13,3.05,18-24,Unisex,North America,Mobile,App
+2025-12-07,Year End Clearance,Social Media,490,24000,1150,44,4840,110.00,4.79,3.83,0.43,11.14,9.88,25-34,Unisex,North America,Mobile,Footwear
+2025-12-07,Member Days,Email,80,4000,600,50,6000,120.00,15.00,8.33,0.13,1.60,75.00,35-44,Unisex,North America,Desktop,Apparel
+2025-12-07,Nike App Installs,PPC,330,16500,520,28,1120,40.00,3.15,5.38,0.63,11.79,3.39,18-24,Unisex,North America,Mobile,App
+2025-12-08,Jordan Retro Drop,Social Media,600,30000,1500,60,13200,220.00,5.00,4.00,0.40,10.00,22.00,18-24,Men,North America,Mobile,Footwear
+2025-12-08,Member Days,Email,0,100,20,0,0,0.00,20.00,0.00,0.00,0.00,0,35-44,Unisex,North America,Desktop,Apparel
+2025-12-08,Nike App Installs,PPC,295,14500,430,19,760,40.00,2.97,4.42,0.69,15.53,2.58,18-24,Unisex,North America,Mobile,App
+2025-12-09,Jordan Retro Drop,Social Media,620,31000,1580,65,14300,220.00,5.10,4.11,0.39,9.54,23.06,18-24,Men,North America,Mobile,Footwear
+2025-12-09,Jordan Retro Drop,PPC,400,20000,800,40,8800,220.00,4.00,5.00,0.50,10.00,22.00,18-24,Men,North America,Desktop,Footwear
+2025-12-09,Nike App Installs,PPC,300,15000,450,20,800,40.00,3.00,4.44,0.67,15.00,2.67,18-24,Unisex,North America,Mobile,App
+2025-12-10,Jordan Retro Drop,Social Media,610,30500,1550,63,13860,220.00,5.08,4.06,0.39,9.68,22.72,18-24,Men,North America,Mobile,Footwear
+2025-12-10,Jordan Retro Drop,Email,200,9000,1200,150,33000,220.00,13.33,12.50,0.17,1.33,165.00,25-34,Men,North America,Desktop,Footwear
+2025-12-10,Nike App Installs,PPC,310,15200,455,21,840,40.00,2.99,4.62,0.68,14.76,2.71,18-24,Unisex,North America,Mobile,App
+2025-12-11,Year End Clearance,Social Media,485,22500,1100,41,4510,110.00,4.89,3.73,0.44,11.83,9.30,25-34,Unisex,North America,Mobile,Footwear
+2025-12-11,Year End Clearance,Email,160,6200,920,115,12650,110.00,14.84,12.50,0.17,1.39,79.06,35-44,Women,North America,Desktop,Footwear
+2025-12-11,Nike App Installs,PPC,315,15500,460,22,880,40.00,2.97,4.78,0.68,14.32,2.79,18-24,Unisex,North America,Mobile,App
+2025-12-12,Holiday Gift Guide,Social Media,530,27000,1300,50,7500,150.00,4.81,3.85,0.41,10.60,14.15,25-34,Unisex,North America,Mobile,Apparel
+2025-12-12,Holiday Gift Guide,Email,20,100,10,0,0,0.00,10.00,0.00,2.00,0.00,0,35-44,Unisex,North America,Desktop,Apparel
+2025-12-12,Nike App Installs,PPC,325,16000,480,23,920,40.00,3.00,4.79,0.68,14.13,2.83,18-24,Unisex,North America,Mobile,App
+2025-12-13,Year End Clearance,Social Media,495,24500,1180,46,5060,110.00,4.82,3.90,0.42,10.76,10.22,25-34,Unisex,North America,Mobile,Footwear
+2025-12-13,Holiday Gift Guide,Email,60,1800,250,35,5250,150.00,13.89,14.00,0.24,1.71,87.50,35-44,Unisex,North America,Desktop,Apparel
+2025-12-13,Nike App Installs,PPC,300,14500,420,19,760,40.00,2.90,4.52,0.71,15.79,2.53,18-24,Unisex,North America,Mobile,App
+2025-12-14,Year End Clearance,Social Media,500,25000,1200,48,5280,110.00,4.80,4.00,0.42,10.42,10.56,25-34,Unisex,North America,Mobile,Footwear
+2025-12-14,Air Max Holiday Drop,Influencer,1500,95000,6000,240,54000,225.00,6.32,4.00,0.25,6.25,36.00,18-24,Unisex,North America,Mobile,Footwear
+2025-12-14,Nike App Installs,PPC,335,17000,540,29,1160,40.00,3.18,5.37,0.62,11.55,3.46,18-24,Unisex,North America,Mobile,App
+2025-12-15,Year End Clearance,Social Media,510,26000,1250,52,5720,110.00,4.81,4.16,0.41,9.81,11.22,25-34,Unisex,North America,Mobile,Footwear
+2025-12-15,Air Max Holiday Drop,Influencer,100,5000,200,10,2250,225.00,4.00,5.00,0.50,10.00,22.50,18-24,Men,Europe,Mobile,Footwear
+2025-12-15,Nike App Installs,PPC,340,17500,560,31,1240,40.00,3.20,5.54,0.61,10.97,3.65,18-24,Unisex,North America,Mobile,App
+2025-12-16,Year End Clearance,Social Media,520,27000,1300,55,6050,110.00,4.81,4.23,0.40,9.45,11.63,25-34,Unisex,North America,Mobile,Footwear
+2025-12-16,Member Days,Email,90,4500,650,55,6600,120.00,14.44,8.46,0.14,1.64,73.33,35-44,Unisex,North America,Desktop,Apparel
+2025-12-16,Nike App Installs,PPC,350,18000,580,33,1320,40.00,3.22,5.69,0.60,10.61,3.77,18-24,Unisex,North America,Mobile,App
+2025-12-17,Jordan Retro Drop,Social Media,650,33000,1600,70,15400,220.00,4.85,4.38,0.41,9.29,23.69,18-24,Men,North America,Mobile,Footwear
+2025-12-17,Member Days,Email,10,50,10,0,0,0.00,20.00,0.00,1.00,0.00,0,35-44,Unisex,North America,Desktop,Apparel
+2025-12-17,Nike App Installs,PPC,345,17800,570,32,1280,40.00,3.20,5.61,0.61,10.78,3.71,18-24,Unisex,North America,Mobile,App
+2025-12-18,Jordan Retro Drop,Social Media,670,34000,1650,75,16500,220.00,4.85,4.55,0.41,8.93,24.63,18-24,Men,North America,Mobile,Footwear
+2025-12-18,Jordan Retro Drop,PPC,450,22000,900,45,9900,220.00,4.09,5.00,0.50,10.00,22.00,18-24,Men,North America,Desktop,Footwear
+2025-12-18,Nike App Installs,PPC,355,18500,590,34,1360,40.00,3.19,5.76,0.60,10.44,3.83,18-24,Unisex,North America,Mobile,App
+2025-12-19,Jordan Retro Drop,Social Media,660,33500,1620,72,15840,220.00,4.84,4.44,0.41,9.17,24.00,18-24,Men,North America,Mobile,Footwear
+2025-12-19,Jordan Retro Drop,Email,250,11000,1400,180,39600,220.00,12.73,12.86,0.18,1.39,158.40,25-34,Men,North America,Desktop,Footwear
+2025-12-19,Nike App Installs,PPC,360,19000,600,35,1400,40.00,3.16,5.83,0.60,10.29,3.89,18-24,Unisex,North America,Mobile,App
+2025-12-20,Year End Clearance,Social Media,550,28000,1350,60,6600,110.00,4.82,4.44,0.41,9.17,12.00,25-34,Unisex,North America,Mobile,Footwear
+2025-12-20,Year End Clearance,Email,180,7000,1000,130,14300,110.00,14.29,13.00,0.18,1.38,79.44,35-44,Women,North America,Desktop,Footwear
+2025-12-20,Nike App Installs,PPC,365,19500,620,36,1440,40.00,3.18,5.81,0.59,10.14,3.95,18-24,Unisex,North America,Mobile,App
+2025-12-21,Holiday Gift Guide,Social Media,700,35000,1800,85,12750,150.00,5.14,4.72,0.39,8.24,18.21,25-34,Unisex,North America,Mobile,Apparel
+2025-12-21,Holiday Gift Guide,Email,200,8000,1100,140,21000,150.00,13.75,12.73,0.18,1.43,105.00,35-44,Unisex,North America,Desktop,Apparel
+2025-12-21,Nike App Installs,PPC,370,19800,630,37,1480,40.00,3.18,5.87,0.59,10.00,4.00,18-24,Unisex,North America,Mobile,App
+2025-12-22,Last Minute Gifts,Social Media,800,40000,2000,95,17100,180.00,5.00,4.75,0.40,8.42,21.38,25-34,Unisex,North America,Mobile,Apparel
+2025-12-22,Last Minute Gifts,PPC,500,25000,1200,60,10800,180.00,4.80,5.00,0.42,8.33,21.60,25-34,Unisex,North America,Desktop,Apparel
+2025-12-22,Nike App Installs,PPC,375,20000,640,38,1520,40.00,3.20,5.94,0.59,9.87,4.05,18-24,Unisex,North America,Mobile,App
+2025-12-23,Last Minute Gifts,Social Media,850,42000,2100,100,18000,180.00,5.00,4.76,0.40,8.50,21.18,25-34,Unisex,North America,Mobile,Apparel
+2025-12-23,Last Minute Gifts,PPC,600,30000,1500,75,13500,180.00,5.00,5.00,0.40,8.00,22.50,25-34,Unisex,North America,Desktop,Apparel
+2025-12-23,Nike App Installs,PPC,380,20500,650,39,1560,40.00,3.17,6.00,0.58,9.74,4.11,18-24,Unisex,North America,Mobile,App
+2025-12-24,Last Minute Gifts,Social Media,600,30000,1500,50,9000,180.00,5.00,3.33,0.40,12.00,15.00,25-34,Unisex,North America,Mobile,Apparel
+2025-12-24,Last Minute Gifts,Email,300,12000,1600,200,36000,180.00,13.33,12.50,0.19,1.50,120.00,35-44,Women,North America,Desktop,Apparel
+2025-12-24,Nike App Installs,PPC,350,18000,600,30,1200,40.00,3.33,5.00,0.58,11.67,3.43,18-24,Unisex,North America,Mobile,App
+2025-12-25,Christmas Day,Social Media,200,10000,500,15,2250,150.00,5.00,3.00,0.40,13.33,11.25,25-34,Unisex,North America,Mobile,Apparel
+2025-12-25,Christmas Day,PPC,100,5000,200,5,750,150.00,4.00,2.50,0.50,20.00,7.50,25-34,Unisex,North America,Desktop,Apparel
+2025-12-25,Nike App Installs,PPC,400,25000,1000,50,2000,40.00,4.00,5.00,0.40,8.00,5.00,18-24,Unisex,Asia,Mobile,App
+2025-12-26,Year End Clearance,Social Media,700,35000,1700,80,8800,110.00,4.86,4.71,0.41,8.75,12.57,25-34,Unisex,North America,Mobile,Footwear
+2025-12-26,Year End Clearance,Email,200,9000,1200,150,16500,110.00,13.33,12.50,0.17,1.33,82.50,35-44,Women,North America,Desktop,Footwear
+2025-12-26,Nike App Installs,PPC,360,19000,610,35,1400,40.00,3.21,5.74,0.59,10.29,3.89,18-24,Unisex,North America,Mobile,App
+2025-12-27,Year End Clearance,Social Media,720,36000,1750,82,9020,110.00,4.86,4.69,0.41,8.78,12.53,25-34,Unisex,North America,Mobile,Footwear
+2025-12-27,Year End Clearance,PPC,400,20000,1000,45,4950,110.00,5.00,4.50,0.40,8.89,12.38,25-34,Unisex,North America,Desktop,Footwear
+2025-12-27,Nike App Installs,PPC,365,19500,620,36,1440,40.00,3.18,5.81,0.59,10.14,3.95,18-24,Unisex,North America,Mobile,App
+2025-12-28,Year End Clearance,Social Media,710,35500,1720,81,8910,110.00,4.85,4.71,0.41,8.77,12.55,25-34,Unisex,North America,Mobile,Footwear
+2025-12-28,Year End Clearance,Email,150,7000,900,110,12100,110.00,12.86,12.22,0.17,1.36,80.67,35-44,Women,North America,Desktop,Footwear
+2025-12-28,Nike App Installs,PPC,370,19800,630,37,1480,40.00,3.18,5.87,0.59,10.00,4.00,18-24,Unisex,North America,Mobile,App
+2025-12-29,New Year Ready,Social Media,600,30000,1500,70,11200,160.00,5.00,4.67,0.40,8.57,18.67,25-34,Unisex,Europe,Mobile,Apparel
+2025-12-29,New Year Ready,Influencer,800,40000,2000,90,14400,160.00,5.00,4.50,0.40,8.89,18.00,18-24,Unisex,Europe,Mobile,Apparel
+2025-12-29,Nike App Installs,PPC,380,21000,680,40,1600,40.00,3.24,5.88,0.56,9.50,4.21,18-24,Unisex,Europe,Mobile,App
+2025-12-30,New Year Ready,Social Media,650,32500,1600,75,12000,160.00,4.92,4.69,0.41,8.67,18.46,25-34,Unisex,Europe,Mobile,Apparel
+2025-12-30,New Year Ready,Email,250,11000,1400,180,28800,160.00,12.73,12.86,0.18,1.39,115.20,35-44,Women,Europe,Desktop,Apparel
+2025-12-30,Nike App Installs,PPC,385,21500,690,41,1640,40.00,3.21,5.94,0.56,9.39,4.26,18-24,Unisex,Europe,Mobile,App
+2025-12-31,New Year Ready,Social Media,700,35000,1750,85,13600,160.00,5.00,4.86,0.40,8.24,19.43,25-34,Unisex,Europe,Mobile,Apparel
+2025-12-31,New Year Ready,PPC,450,22500,1100,55,8800,160.00,4.89,5.00,0.41,8.18,19.56,25-34,Unisex,Europe,Desktop,Apparel
+2025-12-31,Nike App Installs,PPC,390,22000,700,42,1680,40.00,3.18,6.00,0.56,9.29,4.31,18-24,Unisex,Europe,Mobile,App
